@@ -1,0 +1,1 @@
+X=MsgBox("Please Subscribe for Channel NZhTI https://www.youtube.com/@NZhTI",0+10,"Youtube for Subscribe")
